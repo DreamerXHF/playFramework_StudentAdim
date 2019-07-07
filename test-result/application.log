@@ -1,0 +1,4 @@
+22 十二月 2018 10:48:22,428 INFO  ~ Starting E:\JavaEE\StudentsAD
+22 十二月 2018 10:48:22,739 INFO  ~ Module docviewer is available (E:\play-1.5.1\modules\docviewer)
+22 十二月 2018 10:48:23,329 WARN  ~ You're running Play! in DEV mode
+22 十二月 2018 10:48:23,920 ERROR ~ Could not bind on port 9000

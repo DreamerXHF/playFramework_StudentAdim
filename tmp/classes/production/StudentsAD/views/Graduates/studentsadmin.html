@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学生管理</title>
+</head>
+<body>
+<h1 align="center" style="font-size: 29px">本科生管理系统</h1>
+<div style="font-style: revert;font-size: medium"><a href = "http://localhost:9000/admin/graduates/new">添加学生</a></div>
+<div><a href=@{controllers.Graduates.list()}>查找学生</a></div>
+<div><a href = @{controllers.Graduates.list()}>修改学生信息</a></div>
+<div><a href = @{controllers.Application.index()}>返回上一级</a></div>
+<div><a href = @{controllers.Secure.logout()}>退出系统</a></div>
+
+</body>
+</html>
